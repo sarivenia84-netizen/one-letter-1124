@@ -21,4 +21,4 @@ randomness, no network, no wall-clock timestamps.
 - The letter is a plain string in `main.py`; edit it there.
 - 250–400 words, printed with a single `print()` call.
 
-[![Built by make.fun](https://make.fun/badge.svg)](https://make.fun) · [Owner](https://github.com/sarivenia84-netizen) · [Repo](https://github.com/sarivenia84-netizen/sarivenia84-netizen/one-letter-1124)
+[![Built by make.fun](https://make.fun/badge.svg)](https://make.fun) · [Owner](https://github.com/sarivenia84-netizen) · [Repo](https://github.com/sarivenia84-netizen/one-letter-1124)
