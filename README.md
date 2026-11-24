@@ -21,4 +21,7 @@ randomness, no network, no wall-clock timestamps.
 - The letter is a plain string in `main.py`; edit it there.
 - 250–400 words, printed with a single `print()` call.
 
-[![Built by make.fun](https://make.fun/badge.svg)](https://make.fun) · [Owner](https://github.com/sarivenia84-netizen) · [Repo](https://github.com/sarivenia84-netizen/one-letter-1124)
+
+[![make.fun · u-puan-one-letter-for-your-day-e54e9c36](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
+[![rank](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/sarivenia84-netizen/one-letter-1124/rank.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
+[![reward](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/sarivenia84-netizen/one-letter-1124/reward.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
